@@ -1,0 +1,5 @@
+[workspace]
+members = [ "chipr-bin","chipr-lib",
+    "chipr-lib",
+    "chipr-bin"
+]
